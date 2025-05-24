@@ -54,8 +54,8 @@
 ### DBMS
 - MySQL, MSSQL 운영 및 진단
 
-# AI 
-- AWS Bedrock, OpenAI ChatGPT 등 API 기반 보안 서비스의 가이드라인 구축, 취약점 점검 및 가드레일 설계
+### AI 
+- Langchain, AWS Bedrock, OpenAI ChatGPT 등 API 기반 보안 서비스의 가이드라인 구축, 취약점 점검 및 가드레일 설계
 
 ---
 
@@ -83,7 +83,6 @@
   - ISMS 심사 대응 (2014~2021 인증 취득)
   - Python 기반 자동화 시스템 구축
   - ELK 기반 통합 로그 시스템 운영
-
 
 ---
 
