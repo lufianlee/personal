@@ -1,5 +1,5 @@
 # 이지영
-## Cloud Security Engineer (Team Lead)
+## Cloud Security Engineer 
 
 ---
 
